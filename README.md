@@ -45,7 +45,7 @@
 
 ## 📈 **`Key Insights `**
 
-`These insights are derived from the exploratory data analysis performed in this project. They reflect the patterns observed in the dataset, but further analysis may reveal additional insights.`
+`NOTE: These insights are derived from the exploratory data analysis performed in this project. They reflect the patterns observed in the dataset, but further analysis may reveal additional insights.`
 
 ### 🍎 **1. Variety & Grade Preferences**
 
