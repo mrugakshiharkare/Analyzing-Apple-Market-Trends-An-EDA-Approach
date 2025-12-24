@@ -1,31 +1,23 @@
-# 📊 Analyzing-Apple-Market-Trends: An-EDA-Approach
+# 🍎 Apple Fruit Market Analysis: An EDA and Web Scrapping Approach
 *A data-driven exploration of Apple’s performance, products, and market indicators.*
 
 ## 📌 **`Project Overview`**
 
-This project focuses on analyzing **Apple’s market trends** using data analytics techniques.
-The goal is to understand patterns in Apple’s product performance, pricing trends, customer preferences, and overall market growth using exploratory data analysis (EDA).
-
-The project includes:
-
-* Data cleaning and preprocessing
-* Exploratory data analysis using Python
-* Visual insights using Matplotlib & Seaborn
-* Interpretation of market behavior and trend patterns
+- This project is a part of my learning journey in Exploratory Data Analysis (EDA).
+- The main goal of this project was to understand how apple market prices and arrivals change across regions and time, using real data collected from the web.
+- Instead of working on a ready-made dataset, I collected the data myself through web scraping, cleaned it, and then explored it using Python.
+- This helped me understand how real-world data looks before analysis and how much effort goes into preparing it.
 
 ## 🎯 **`Objectives`**
-
-This project aims to answer key questions such as:  
-✔ How have Apple product prices changed over time?  
-✔ Which product categories show the highest demand?     
-✔ What patterns exist in features, pricing, and ratings?   
-✔ What market trends can be observed across Apple product lines?  
+- To collect apple market data from online sources
+- To clean and organize raw data for analysis
+- To explore price trends, arrivals, and variations using EDA
+- To visualize patterns that can help understand market behavior 
 
 ## 🧰 **`Tools & Technologies`**
 
 * **Python**
 * **Libraries:**
-
   * Pandas
   * NumPy
   * Matplotlib
@@ -38,11 +30,9 @@ This project aims to answer key questions such as:
 2. Install required Python libraries
 3. Open the notebooks in Jupyter
 4. Run them in sequence:
-
    * 01_Data_Cleaning
    * 02_EDA
    * 03_Insights
-5. View the saved graphs inside the *Images* folder
 
 ## 🔍 **Key Techniques Used**
 
@@ -55,7 +45,7 @@ This project aims to answer key questions such as:
 
 ## 📈 **`Key Insights `**
 
-These insights are derived from the exploratory data analysis performed in this project. They reflect the patterns observed in the dataset, but further analysis may reveal additional insights.
+`These insights are derived from the exploratory data analysis performed in this project. They reflect the patterns observed in the dataset, but further analysis may reveal additional insights.`
 
 ### 🍎 **1. Variety & Grade Preferences**
 
@@ -90,6 +80,13 @@ These insights are derived from the exploratory data analysis performed in this 
 
 * The **American** variety has the **most stable pricing**, making it a reliable trading option.
 * **Srinagar** market carries the highest profit potential *but also the highest risk* due to unpredictable price swings.
+
+## 🧠 `**Learnings`**
+
+- Learned how to work with raw, unstructured data
+- Understood the importance of data cleaning before analysis
+- Improved my skills in Exploratory Data Analysis
+- Gained confidence in extracting insights using visualizations
 
 ## 🚀 **`Future Enhancements`**
 
